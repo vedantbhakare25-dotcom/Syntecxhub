@@ -1,0 +1,1 @@
+The sales distribution for Region B shows higher variability and positive skewness due to the presence of extreme high values. Region A has a more compact distribution with fewer outliers. Boxplots highlight outliers clearly, while KDE and histograms provide insights into distribution shape and spread.
