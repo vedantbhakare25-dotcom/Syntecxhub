@@ -1,0 +1,5 @@
+Sales Analysis Summary
+----------------------
+Total Sales: 195000
+Highest Category: Electronics
+Best Month: April 2024
